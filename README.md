@@ -6,6 +6,7 @@ Technical Consultant at Wallstreetdocs (WSD);<br>
 First-Class Computer Science Graduate from the University of Warwick;<br>
 
 - ⚙️ I use daily: `.php`, `.js`, `.py`, `.html`, `.css`
+- 🌍 Previous software engineer intern at Sedna (React and AWS) and Chimnie (E2E development on an innovative AI project using p5.js, Flask and OpenCV).
 - 🔭 Here are some of my projects:
 
 #### [Saiyan Lifts Tracker](https://github.com/Cheuktingchan/saiyan_lifts_tracker)
