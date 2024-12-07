@@ -21,7 +21,7 @@ A 2D platformer where the aim is to reach the cheese as a sewer rat, but the twi
 #### [Humines](https://github.com/Cheuktingchan/humines)
 A Lumines clone made using Haskell as part of a Functional Programming module at university.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Cheuktingchan&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cheuktingchan)](https://github.com/Cheuktingchan/github-profile-trophy)
 
 
