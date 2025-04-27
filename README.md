@@ -12,6 +12,9 @@ First-Class Computer Science Graduate from the University of Warwick;<br>
 #### [Saiyan Lifts Tracker](https://github.com/Cheuktingchan/saiyan_lifts_tracker)
 A performant and minimalistic workout tracker deployed as a mobile web app - designed for use in the gym using ethnographic testing. Say goodbye to your notes app and gamify your workouts.
 
+#### [Leet Mate](https://github.com/Cheuktingchan/leetcode-trainer)
+Practicing Leetcode on the phone can be challenging. LeetMate is your ultimate companion app which provides an accessible and enjoyable experience tailored for mastering leetcode on the go.
+
 #### [Network Topology in the Donation Game](https://github.com/Cheuktingchan/Donation-Game-Experiments)
 An adaptation of the implementation of the donation game with generosity and forgiveness as reported in "Generosity and the Emergence of Forgiveness in the Donation Game" (published in ECAI 2023) by Nathan Griffiths. This adaptation allows for simulation on different network topologies (Random, Scale-Free, Small-World, Community and Bipartite) as the main research method for my university dissertation.
 
